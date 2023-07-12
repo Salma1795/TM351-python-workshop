@@ -1,2 +1,2 @@
-# TM351-workshop 1
-this is the first workshop 
+# TM351-workshop 
+Here you will find all the notebooks
